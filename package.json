@@ -1,0 +1,25 @@
+{
+    "name": "monolite",
+    "displayName": "Monolite",
+    "description": "",
+    "author": "Bauke Posthuma",
+    "category": "Theme",
+    "publisher": "baukeposthuma",
+    "repository": "https://github.com/baukeposthuma/monolite",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monolite",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monolite-color-theme.json"
+            }
+        ]
+    }
+}
