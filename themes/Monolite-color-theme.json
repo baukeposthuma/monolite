@@ -132,6 +132,23 @@
 		"inputValidation.warningBackground": "#ebbf83",
 		"inputValidation.warningBorder": "#d98e48",
 
+		// settings = in progress
+		"settings.headerForeground": "#B8BDC7",
+		"settings.modifiedItemIndicator": "#1E8FE1",
+		"settings.dropdownBackground": "#151721",
+		"settings.dropdownForeground": "#B8BDC7",
+		"settings.dropdownBorder": "#10121a",
+		"settings.dropdownListBorder": "#10121a",
+		"settings.checkboxBackground": "#151721",
+		"settings.checkboxForeground": "#B8BDC7",
+		"settings.checkboxBorder": "#10121a",
+		"settings.textInputBackground": "#151721",
+		"settings.textInputForeground": "#B8BDC7",
+		"settings.textInputBorder": "#10121a",
+		"settings.numberInputBackground": "#151721",
+		"settings.numberInputForeground": "#B8BDC7",
+		"settings.numberInputBorder": "#10121a",
+
 		"list.activeSelectionBackground": "#191C28",
 		"list.activeSelectionForeground": "#8C96A9",
 		"list.dropBackground": "#333F4A",
