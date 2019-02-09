@@ -223,6 +223,13 @@
 		"tab.unfocusedActiveForeground": "#8C96A9",
 		"tab.unfocusedInactiveForeground": "#8C96A9",
 
+		// Terminal: in progress
+		"terminal.background": "#191C28",
+		"terminal.border": "#151721",
+		"terminal.foreground": "#ffffff",
+		"terminalCursor.background": "#1E8FE1",
+		"terminalCursor.foreground": "#1E8FE1",
+
 		"terminal.ansiBlack": "#41505E",
 		"terminal.ansiRed": "#d95468",
 		"terminal.ansiGreen": "#8bd49c",
@@ -239,11 +246,6 @@
 		"terminal.ansiBrightMagenta": "#b62d65",
 		"terminal.ansiBrightCyan": "#70e1e8",
 		"terminal.ansiBrightWhite": "#ffffff",
-
-		"terminal.background": "#171d23",
-		"terminal.foreground": "#ffffff",
-		"terminalCursor.background": "#1E8FE1",
-		"terminalCursor.foreground": "#1E8FE1",
 
 		"textBlockQuote.background": "#171d23",
 		"textBlockQuote.border": "#171d23",
