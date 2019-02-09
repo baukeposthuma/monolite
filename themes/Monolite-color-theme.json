@@ -120,11 +120,11 @@
 		"foreground": "#8C96A9",
 
 		// input = in progress
-		"input.background": "#1A1E2D",
+		"input.background": "#191C28",
 		"input.border": "#151721",
-		"input.foreground": "#B0B8C5",
+		"input.foreground": "#8C96A9",
 		"input.placeholderForeground": "#8C96A9",
-		"inputOption.activeBorder": "#333F4A",
+		"inputOption.activeBorder": "#2a2e3d",
 		"inputValidation.errorBackground": "#e27e8d",
 		"inputValidation.errorBorder": "#d95468",
 		"inputValidation.infoBackground": "#5ec4ff",
