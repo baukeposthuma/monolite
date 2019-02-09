@@ -122,7 +122,7 @@
 		// input = in progress
 		"input.background": "#191C28",
 		"input.border": "#151721",
-		"input.foreground": "#8C96A9",
+		"input.foreground": "#B8BDC7",
 		"input.placeholderForeground": "#8C96A9",
 		"inputOption.activeBorder": "#2a2e3d",
 		"inputValidation.errorBackground": "#e27e8d",
