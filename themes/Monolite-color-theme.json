@@ -116,7 +116,7 @@
 		"extensionButton.prominentBackground": "#1E8FE1",
 		"extensionButton.prominentForeground": "#FFF",
 		"extensionButton.prominentHoverBackground": "#46A2E4",
-		"focusBorder": "#333F4A",
+		"focusBorder": "#2a2e3d",
 		"foreground": "#8C96A9",
 
 		// input = in progress
