@@ -160,6 +160,12 @@
 		"notifications.background": "#191c28",
 		"notifications.border": "#151721",
 		"notificationLink.foreground": "#1E8FE1",
+
+		// panel = done
+		"panel.background": "#1E2332",
+		"panel.border": "#151721",
+		"panelTitle.activeBorder": "#1E8FE1",
+		"panelTitle.activeForeground": "#FFF",
 		"panelTitle.inactiveForeground": "#8C96A9",
 
 		"peekView.border": "#333F4A",
