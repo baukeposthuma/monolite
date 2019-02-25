@@ -440,6 +440,15 @@
 		  }
 		},
 		{
+		  "name": "Variables constant property",
+		  "scope": [
+			"variable.other.constant.property"
+		  ],
+		  "settings": {
+			"foreground": "#fff"
+		  }
+		},
+		{
 		  "name": "Other Variable, String Link",
 		  "scope": [
 			"support.other.variable",
