@@ -6,7 +6,7 @@
 
 A beautifull dark theme that let's you focus on your code.
 
-![preview-dark](https://github.com/baukeposthuma/monolite/master/screenshot-dark.png)
+![preview-dark](https://github.com/baukeposthuma/monolite/raw/master/screenshot-dark.png)
 
 </div>
 
