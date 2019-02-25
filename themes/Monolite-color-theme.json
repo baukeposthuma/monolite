@@ -42,7 +42,7 @@
 
 		// editor = in progress
 		"editor.background": "#191C28",
-		"editor.foreground": "#8C96A9",
+		"editor.foreground": "#fff",
 
 		"editor.findMatchBackground": "#b7c5d380",
 
