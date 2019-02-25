@@ -1,12 +1,14 @@
 {
     "name": "monolite",
     "displayName": "Monolite",
-    "description": "",
+    "description": "A beautifull dark theme that let's you focus on your code.",
+    "keywords": ["dark", "focus", "blue", "simple", "minimal"],
+    "version": "1.0.1",
     "author": "Bauke Posthuma",
-    "category": "Theme",
     "publisher": "baukeposthuma",
+    "icon": "icon.png",
     "repository": "https://github.com/baukeposthuma/monolite",
-    "version": "1.0.0",
+    "category": "Theme",
     "engines": {
         "vscode": "^1.30.0"
     },
