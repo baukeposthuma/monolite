@@ -1,11 +1,29 @@
-# README
-## Thanks for using "monolite"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<div align="center">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<img src="https://raw.githubusercontent.com/baukeposthuma/monolite/master/icon.png" width="140" />
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Monolite Theme
+
+A beautifull dark theme that let's you focus on your code.
+
+![preview-dark](https://github.com/baukeposthuma/monolite/master/screenshot-dark.png)
+
+</div>
+
+## Installation
+
+1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=baukeposthuma.monolite)
+2. File > Preferences > Color Theme > **Monolite Theme**
+
+```or```
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Monolite Theme`
+3. Click **Install**
+4. Click **Reload**
+5. File > Preferences > Color Theme > **Monolite Theme**
+
+Alternatively install via CLI:
+```
+code --install-extension baukeposthuma.monolite
+```
