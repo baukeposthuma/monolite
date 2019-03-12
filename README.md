@@ -13,17 +13,20 @@ A beautifull dark theme that let's you focus on your code.
 ## Installation
 
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=baukeposthuma.monolite)
-2. File > Preferences > Color Theme > **Monolite Theme**
-
-```or```
-
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Monolite Theme`
-3. Click **Install**
-4. Click **Reload**
-5. File > Preferences > Color Theme > **Monolite Theme**
+2. `File` → `Preferences` → `Color Theme` → **Monolite Theme** `⌘K⌘T`
 
 Alternatively install via CLI:
 ```
 code --install-extension baukeposthuma.monolite
+```
+
+## Recommended settings
+
+To get the best experience possible, we recommend to add these settings to your `settings.json`.
+
+```json
+"editor.fontLigatures": true,
+"editor.fontFamily": "'Operator Mono'",
+"workbench.colorTheme": "Monolite",
+"workbench.editor.tabSizing": "shrink",
 ```
