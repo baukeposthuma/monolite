@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/baukeposthuma/monolite/master/icon.png" width="140" />
+<img src="https://raw.githubusercontent.com/baukeposthuma/monolite/master/logo.png" width="140" />
 
 # Monolite Theme
 
