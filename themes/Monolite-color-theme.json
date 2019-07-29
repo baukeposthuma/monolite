@@ -58,7 +58,7 @@
 		"editor.lineHighlightBorder": "#28313a",
 		"editor.rangeHighlightBackground": "#28313a",
 
-		"editor.selectionBackground": "#28323a",
+		"editor.selectionBackground": "#243E51",
 
 		"editor.selectionHighlightBackground": "#28313a",
 
@@ -84,8 +84,8 @@
 		"editorGroupHeader.tabsBackground": "#242A3B",
 		"editorGroupHeader.tabsBorder": "#151721",
 
-		"editorHoverWidget.background": "#15232d",
-		"editorHoverWidget.border": "#333F4A",
+		"editorHoverWidget.background": "#242A3B",
+		"editorHoverWidget.border": "#151721",
 		"editorIndentGuide.background": "#41505E",
 		"editorLineNumber.foreground": "#41505E",
 		"editorLink.activeForeground": "#8C96A9",
@@ -109,9 +109,9 @@
 		"editorWarning.border": "#ffffff00",
 		"editorWarning.foreground": "#ebbf83",
 		"editorWhitespace.foreground": "#ffffff1a",
-		"editorWidget.background": "#15232d",
-		"editorWidget.border": "#333F4A",
-		"errorForeground": "#e27e8d",
+		"editorWidget.background": "#1e2332",
+		"editorWidget.border": "#151721",
+		"errorForeground": "#f88070",
 
 		"extensionButton.prominentBackground": "#1E8FE1",
 		"extensionButton.prominentForeground": "#FFF",
