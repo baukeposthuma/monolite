@@ -54,9 +54,9 @@
 
 		"editor.inactiveSelectionBackground": "#191C28",
 
-		"editor.lineHighlightBackground": "#28313a",
-		"editor.lineHighlightBorder": "#28313a",
-		"editor.rangeHighlightBackground": "#28313a",
+		"editor.lineHighlightBackground": "#151721",
+		"editor.lineHighlightBorder": "#151721",
+		"editor.rangeHighlightBackground": "#151721",
 
 		"editor.selectionBackground": "#243E51",
 
@@ -149,15 +149,15 @@
 		"settings.numberInputForeground": "#B8BDC7",
 		"settings.numberInputBorder": "#10121a",
 
-		"list.activeSelectionBackground": "#191C28",
-		"list.activeSelectionForeground": "#8C96A9",
+		"list.activeSelectionBackground": "#26506D",
+		"list.activeSelectionForeground": "#FFF",
 		"list.dropBackground": "#333F4A",
 		"list.focusBackground": "#333F4A",
 		"list.focusForeground": "#8C96A9",
 		"list.highlightForeground": "#1E8FE1",
 		"list.hoverBackground": "#191C28",
 		"list.hoverForeground": "#8C96A9",
-		"list.inactiveSelectionBackground": "#333F4A",
+		"list.inactiveSelectionBackground": "#191C28",
 		"list.inactiveSelectionForeground": "#8C96A9",
 
 		"merge.border": "#ffffff00",
