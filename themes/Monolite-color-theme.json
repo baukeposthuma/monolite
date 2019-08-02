@@ -54,9 +54,9 @@
 
 		"editor.inactiveSelectionBackground": "#191C28",
 
-		"editor.lineHighlightBackground": "#28313a",
-		"editor.lineHighlightBorder": "#28313a",
-		"editor.rangeHighlightBackground": "#28313a",
+		"editor.lineHighlightBackground": "#151721",
+		"editor.lineHighlightBorder": "#151721",
+		"editor.rangeHighlightBackground": "#151721",
 
 		"editor.selectionBackground": "#243E51",
 
