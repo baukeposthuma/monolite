@@ -100,11 +100,11 @@
 		"editorOverviewRuler.incomingContentForeground": "#3ad90055",
 		"editorRuler.foreground": "#1F4662",
 
-		"editorSuggestWidget.background": "#15232d",
-		"editorSuggestWidget.border": "#15232d",
-		"editorSuggestWidget.foreground": "#8C96A9",
-		"editorSuggestWidget.highlightForeground": "#ebbf83",
-		"editorSuggestWidget.selectedBackground": "#191C28",
+		"editorSuggestWidget.background": "#1E2332",
+		"editorSuggestWidget.border": "#151721",
+		"editorSuggestWidget.foreground": "#B0B8C5",
+		"editorSuggestWidget.highlightForeground": "#1E8FE1",
+		"editorSuggestWidget.selectedBackground": "#243E51",
 
 		"editorWarning.border": "#ffffff00",
 		"editorWarning.foreground": "#ebbf83",
