@@ -18,7 +18,7 @@
 		"badge.foreground": "#FFF",
 
 		// button = in progress
-		"button.background": "#191C28",
+		"button.background": "#242A3B",
 		"button.foreground": "#FFF",
 		"button.hoverBackground": "#1E8FE1",
 
@@ -100,11 +100,11 @@
 		"editorOverviewRuler.incomingContentForeground": "#3ad90055",
 		"editorRuler.foreground": "#1F4662",
 
-		"editorSuggestWidget.background": "#15232d",
-		"editorSuggestWidget.border": "#15232d",
-		"editorSuggestWidget.foreground": "#8C96A9",
-		"editorSuggestWidget.highlightForeground": "#ebbf83",
-		"editorSuggestWidget.selectedBackground": "#191C28",
+		"editorSuggestWidget.background": "#1E2332",
+		"editorSuggestWidget.border": "#151721",
+		"editorSuggestWidget.foreground": "#B0B8C5",
+		"editorSuggestWidget.highlightForeground": "#1E8FE1",
+		"editorSuggestWidget.selectedBackground": "#243E51",
 
 		"editorWarning.border": "#ffffff00",
 		"editorWarning.foreground": "#ebbf83",
@@ -116,7 +116,7 @@
 		"extensionButton.prominentBackground": "#1E8FE1",
 		"extensionButton.prominentForeground": "#FFF",
 		"extensionButton.prominentHoverBackground": "#46A2E4",
-		"focusBorder": "#2a2e3d",
+		"focusBorder": "#00000000",
 		"foreground": "#8C96A9",
 
 		// input = in progress
@@ -152,7 +152,7 @@
 		"list.activeSelectionBackground": "#26506D",
 		"list.activeSelectionForeground": "#FFF",
 		"list.dropBackground": "#333F4A",
-		"list.focusBackground": "#333F4A",
+		"list.focusBackground": "#26506D",
 		"list.focusForeground": "#8C96A9",
 		"list.highlightForeground": "#1E8FE1",
 		"list.hoverBackground": "#191C28",
@@ -174,7 +174,7 @@
 		"notificationCenterHeader.background": "#242A3B",
 		"notificationToast.border": "#151721",
 		"notifications.foreground": "#fff",
-		"notifications.background": "#191c28",
+		"notifications.background": "#242A3B",
 		"notifications.border": "#151721",
 		"notificationLink.foreground": "#1E8FE1",
 
@@ -185,19 +185,19 @@
 		"panelTitle.activeForeground": "#FFF",
 		"panelTitle.inactiveForeground": "#8C96A9",
 
-		"peekView.border": "#333F4A",
-		"peekViewEditor.background": "#191C28",
+		"peekView.border": "#151721",
+		"peekViewEditor.background": "#1E2332",
 		"peekViewEditor.matchHighlightBackground": "#15232d",
-		"peekViewEditorGutter.background": "#333F4A",
-		"peekViewResult.background": "#15232d",
+		"peekViewEditorGutter.background": "#1E2332",
+		"peekViewResult.background": "#242A3B",
 		"peekViewResult.fileForeground": "#8C96A9",
 		"peekViewResult.lineForeground": "#fff",
-		"peekViewResult.matchHighlightBackground": "#333F4A",
+		"peekViewResult.matchHighlightBackground": "#347cb1",
 		"peekViewResult.selectionBackground": "#333F4A",
 		"peekViewResult.selectionForeground": "#fff",
-		"peekViewTitle.background": "#15232d",
+		"peekViewTitle.background": "#242A3B",
 		"peekViewTitleDescription.foreground": "#8C96A9",
-		"peekViewTitleLabel.foreground": "#1E8FE1",
+		"peekViewTitleLabel.foreground": "#FFF",
 
 		"pickerGroup.border": "#333F4A",
 		"pickerGroup.foreground": "#8C96A9",
@@ -226,8 +226,8 @@
 		"statusBar.foreground": "#8C96A9",
 		"statusBar.noFolderBackground": "#171d23",
 		"statusBar.noFolderForeground": "#8C96A9",
-		"statusBarItem.activeBackground": "#5ec4ff",
-		"statusBarItem.hoverBackground": "#333F4A",
+		"statusBarItem.activeBackground": "#191c28",
+		"statusBarItem.hoverBackground": "#191c28",
 		"statusBarItem.prominentBackground": "#171d23",
 		"statusBarItem.prominentHoverBackground": "#333F4A",
 
