@@ -278,7 +278,7 @@
 		"titleBar.inactiveForeground": "#8C96A9",
 		"walkThrough.embeddedEditorBackground": "#191C28",
 		"welcomePage.buttonBackground": "#191C28",
-		"welcomePage.buttonHoverBackground": "#333F4A",
+		"welcomePage.buttonHoverBackground": "#242A3B",
 		"widget.shadow": "#00000026"
 	},
 	"tokenColors": [
