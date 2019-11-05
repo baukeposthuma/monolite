@@ -269,8 +269,8 @@
 		"textCodeBlock.background": "#171d23",
 		"textLink.activeForeground": "#4b8bbd",
 		"textLink.foreground": "#4b8bbd",
-		"textPreformat.foreground": "#191C28",
-		"textSeparator.foreground": "#191C28",
+		"textPreformat.foreground": "#4b8bbd",
+		"textSeparator.foreground": "#4b8bbd",
 		"titleBar.activeBackground": "#242A3B",
 		"titleBar.activeForeground": "#FFF",
 		"titleBar.border": "#151721",
@@ -278,7 +278,7 @@
 		"titleBar.inactiveForeground": "#8C96A9",
 		"walkThrough.embeddedEditorBackground": "#191C28",
 		"welcomePage.buttonBackground": "#191C28",
-		"welcomePage.buttonHoverBackground": "#333F4A",
+		"welcomePage.buttonHoverBackground": "#242A3B",
 		"widget.shadow": "#00000026"
 	},
 	"tokenColors": [
