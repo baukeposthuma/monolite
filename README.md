@@ -26,7 +26,7 @@ To get the best experience possible, we recommend to add these settings to your 
 
 ```json
 "editor.fontLigatures": true,
-"editor.fontFamily": "'Operator Mono'",
+"editor.fontFamily": "Operator Mono",
 "workbench.colorTheme": "Monolite",
 "workbench.editor.tabSizing": "shrink",
 ```
