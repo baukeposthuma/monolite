@@ -4,7 +4,7 @@
 	"scheme": "",
 	"author": "Bauke Posthuma",
 	"colors": {
-		// activityBar = done
+		// activityBar
 		"activityBar.background": "#242A3B",
 		"activityBar.border": "#151721",
 		"activityBar.dropBackground": "#151721",
@@ -13,11 +13,11 @@
 		"activityBarBadge.foreground": "#FFF",
 		"activityBar.inactiveForeground": "#8C96A9",
 
-		// badge = done
+		// badge
 		"badge.background": "#1E8FE1",
 		"badge.foreground": "#FFF",
 
-		// button = in progress
+		// button
 		"button.background": "#242A3B",
 		"button.foreground": "#FFF",
 		"button.hoverBackground": "#1E8FE1",
@@ -31,16 +31,18 @@
 
 		"descriptionForeground": "#8C96A9",
 
-		"diffEditor.insertedTextBackground": "#3ad90011",
-		"diffEditor.insertedTextBorder": "#3ad90055",
-		"diffEditor.removedTextBackground": "#ee3a4311",
-		"diffEditor.removedTextBorder": "#ee3a4355",
+		"diffEditor.insertedTextBackground": "#3ad90017",
+		"diffEditor.insertedTextBorder": null,
+		"diffEditor.border": "#151721",
+		"diffEditor.diagonalFill": "#41505E50",
+		"diffEditor.removedTextBackground": "#ee3a4322",
+		"diffEditor.removedTextBorder": null,
 
 		"dropdown.background": "#191C28",
 		"dropdown.border": "#15232d",
 		"dropdown.foreground": "#fff",
 
-		// editor = in progress
+		// editor
 		"editor.background": "#191C28",
 		"editor.foreground": "#fff",
 
@@ -119,7 +121,7 @@
 		"focusBorder": "#00000000",
 		"foreground": "#8C96A9",
 
-		// input = in progress
+		// input
 		"input.background": "#191C28",
 		"input.border": "#151721",
 		"input.foreground": "#B8BDC7",
@@ -132,7 +134,7 @@
 		"inputValidation.warningBackground": "#ebbf83",
 		"inputValidation.warningBorder": "#d98e48",
 
-		// settings = in progress
+		// settings
 		"settings.headerForeground": "#B8BDC7",
 		"settings.modifiedItemIndicator": "#1E8FE1",
 		"settings.dropdownBackground": "#151721",
@@ -168,7 +170,7 @@
 		"merge.incomingContentBackground": "#ffffff00",
 		"merge.incomingHeaderBackground": "#ffffff00",
 
-		// notifications = done
+		// notifications
 		"notificationCenter.border": "#151721",
 		"notificationCenterHeader.foreground": "#fff",
 		"notificationCenterHeader.background": "#242A3B",
@@ -178,7 +180,7 @@
 		"notifications.border": "#151721",
 		"notificationLink.foreground": "#1E8FE1",
 
-		// panel = done
+		// panel
 		"panel.background": "#1E2332",
 		"panel.border": "#151721",
 		"panelTitle.activeBorder": "#1E8FE1",
@@ -211,7 +213,7 @@
 
 		"selection.background": "#347cb1",
 
-		// sidebar = in progress
+		// sidebar
 		"sideBar.background": "#1E2332",
 		"sideBar.border": "#151721",
 		"sideBar.foreground": "#B0B8C5",
@@ -240,7 +242,7 @@
 		"tab.unfocusedActiveForeground": "#8C96A9",
 		"tab.unfocusedInactiveForeground": "#8C96A9",
 
-		// Terminal: in progress
+		// Terminal
 		"terminal.background": "#191C28",
 		"terminal.border": "#151721",
 		"terminal.foreground": "#ffffff",
