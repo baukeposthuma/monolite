@@ -1,7 +1,7 @@
 const fs = require('fs');
 const colors = require('./src/colors');
 
-const files = ['monolight.json'];
+const files = ['monolite.json'];
 
 files.forEach((file) => {
     let text = fs.readFileSync(`./src/${file}`, 'utf8');
