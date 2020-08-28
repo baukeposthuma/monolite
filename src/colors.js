@@ -1,0 +1,28 @@
+module.exports = {
+    '--monolite-cyan': '#1E8FE1',
+    '--monolite-dim-cyan': '#46A2E4',
+    '--monolite-dark-blue': '#242A3B',
+    '--monolite-light-blue': '#26506D',
+
+    '--monolite-blue': '#539afc',
+    '--monolite-light-cyan': '#70e1e8',
+    '--monolite-light-red': '#f07178',
+    '--monolite-red': '#d95468',
+    '--monolite-dark-red': '#ff5370',
+    '--monolite-yellow': '#ebbf83',
+    '--monolite-orange': '#d98e48',
+    '--monolite-dark-orange': '#f88070',
+    '--monolite-green': '#8bd49c',
+    '--monolite-purple': '#C792EA',
+    '--monolite-magenta': '#b62d65',
+    '--monolite-indigo': '#82AAFF',
+
+    '--monolite-gray-1': '#10121a',
+    '--monolite-gray-2': '#151721',
+    '--monolite-gray-3': '#191C28',
+    '--monolite-gray-4': '#282E41',
+    '--monolite-gray-5': '#333F4A',
+    '--monolite-gray-6': '#41505E',
+    '--monolite-gray-7': '#8C96A9',
+    '--monolite-gray-8': '#B8BDC7',
+};
