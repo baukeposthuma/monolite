@@ -33,8 +33,17 @@
             {
                 "label": "Monolite",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monolite-color-theme.json"
+                "path": "./themes/monolite.json"
             }
         ]
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "prettier": "^2.1.1",
+        "vsce": "^1.71.0"
+    },
+    "scripts": {
+        "publish": "vsce publish",
+        "build": "node build"
     }
 }
