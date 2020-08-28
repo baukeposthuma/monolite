@@ -14,6 +14,7 @@
     "version": "1.0.11",
     "author": "Bauke Posthuma",
     "publisher": "baukeposthuma",
+    "license": "MIT",
     "icon": "icon.png",
     "repository": "https://github.com/baukeposthuma/monolite",
     "category": "Themes",
