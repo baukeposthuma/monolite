@@ -162,13 +162,14 @@
 		"list.inactiveSelectionBackground": "#191C28",
 		"list.inactiveSelectionForeground": "#8C96A9",
 
+		// merge
 		"merge.border": "#ffffff00",
 		"merge.commonContentBackground": "#ffffff00",
 		"merge.commonHeaderBackground": "#ffffff00",
 		"merge.currentContentBackground": "#ffffff00",
 		"merge.currentHeaderBackground": "#ffffff00",
-		"merge.incomingContentBackground": "#ffffff00",
-		"merge.incomingHeaderBackground": "#ffffff00",
+		"merge.incomingContentBackground": "#243E51",
+		"merge.incomingHeaderBackground": "#1E8FE1",
 
 		// notifications
 		"notificationCenter.border": "#151721",
